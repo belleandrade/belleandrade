@@ -30,9 +30,8 @@
     <section class="categoria">
         <h2>Filmes e séries</h2>
         <div class="categoria-videos">
-            <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-                <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
-            </a>
+            <a href="https://www.youtube.com/watch?v=aAkMkVFwAoo&pp=ygUMbWFyaWFoIGNhcmV5">
+                https://www.google.com/imgres?q=mariah%20carey%20all%20i%20want%20for%20christmas%20is%20you&imgurl=https%3A%2F%2Fmidias.correiobraziliense.com.br%2F_midias%2Fjpg%2F2022%2F11%2F18%2F675x450%2F1_mariah-26873177.jpeg%3F20221118122938%3F20221118122938&imgrefurl=https%3A%2F%2Fwww.correiobraziliense.com.br%2Fdiversao-e-arte%2F2022%2F11%2F5052752-all-i-want-for-christmas-is-you-tem-22-milhoes-de-streams-este-mes.html&docid=x-Gtw6R3rpBhxM&tbnid=qp3EID0M6bK7AM&vet=12ahUKEwjk0qO13KmJAxVhrpUCHdEyL3MQM3oECEoQAA..i&w=675&h=450&hcb=2&ved=2ahUKEwjk0qO13KmJAxVhrpUCHdEyL3MQM3oECEoQAA
             <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
                 <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
             </a>
